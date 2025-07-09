@@ -64,4 +64,4 @@ Sociopedia is a full-stack social media application where users can share posts,
 6. *Open your browser:*
    - Visit http://localhost:3000 to use the app.
 
-## Folder Structure
+
