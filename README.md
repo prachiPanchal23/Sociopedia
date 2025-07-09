@@ -30,7 +30,7 @@ Sociopedia is a full-stack social media application where users can share posts,
 
 1. *Clone the repository:*
    bash
-   git clone https://github.com/yourusername/sociopedia.git
+   git clone https://github.com/prachiPanchal23/sociopedia.git
    cd sociopedia
    
 
